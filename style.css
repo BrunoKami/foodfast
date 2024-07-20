@@ -1,0 +1,74 @@
+#corpo{
+    background-color: red;
+    color: white !important;
+}
+#logo1{
+    margin-top: 10px;
+    height: 100px;
+    width: 100px;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#cabecalho{
+    display: flex;
+    font-size: 50px;
+    justify-content: space-around;
+}
+
+button{
+    border-radius: 5px;
+    border: none;
+    background-color: red;
+    color: white;
+}
+
+#carrosel{
+    height: 50vh;
+    width: 100vh;
+    border-color: black;
+}
+
+#carouselExample{
+    height: 50vh;
+    width: 100vw;
+}
+
+.carousel-item{
+    height: 350px;
+}
+
+#cardis{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.card-img-top1 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#comentarios {
+    display: flex;
+    justify-content: space-around;
+    border
+}
+
+#formulario {
+    width: 50vw;
+    border-radius: 10px;    
+    justify-content: space-around;
+    background-color: red;
+    margin-left: 400px;
+}
